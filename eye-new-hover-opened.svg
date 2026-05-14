@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 22.8 22.8" style="enable-background:new 0 0 22.8 22.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#fff;}
+</style>
+<rect x="-55.6" y="-55.6" class="st0" width="134" height="134"/>
+<path class="st1" d="M11.4,0L11.4,0c0.7,0,1.3,0.6,1.3,1.3v4c0,0.7-0.6,1.3-1.3,1.3l0,0c-0.7,0-1.3-0.6-1.3-1.3v-4
+	C10.1,0.6,10.6,0,11.4,0z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+<path class="st1" d="M19.4,3.3L19.4,3.3c0.5,0.5,0.5,1.4,0,1.9l-2.8,2.8c-0.5,0.5-1.4,0.5-1.9,0l0,0c-0.5-0.5-0.5-1.4,0-1.9l2.8-2.8
+	C18.1,2.8,18.9,2.8,19.4,3.3z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.25s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+<path class="st1" d="M22.8,11.4L22.8,11.4c0,0.7-0.6,1.3-1.3,1.3h-4c-0.7,0-1.3-0.6-1.3-1.3l0,0c0-0.7,0.6-1.3,1.3-1.3h4
+	C22.2,10.1,22.8,10.6,22.8,11.4z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.5s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+<path class="st1" d="M19.4,19.4L19.4,19.4c-0.5,0.5-1.4,0.5-1.9,0l-2.8-2.8c-0.5-0.5-0.5-1.4,0-1.9l0,0c0.5-0.5,1.4-0.5,1.9,0
+	l2.8,2.8C20,18.1,20,18.9,19.4,19.4z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.75s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+<path class="st1" d="M11.4,22.8L11.4,22.8c-0.7,0-1.3-0.6-1.3-1.3v-4c0-0.7,0.6-1.3,1.3-1.3l0,0c0.7,0,1.3,0.6,1.3,1.3v4
+	C12.7,22.2,12.1,22.8,11.4,22.8z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="1s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+<path class="st1" d="M3.3,19.4L3.3,19.4c-0.5-0.5-0.5-1.4,0-1.9l2.8-2.8c0.5-0.5,1.4-0.5,1.9,0l0,0c0.5,0.5,0.5,1.4,0,1.9l-2.8,2.8
+	C4.7,20,3.9,20,3.3,19.4z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="1.25s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+<path class="st1" d="M0,11.4L0,11.4c0-0.7,0.6-1.3,1.3-1.3h4c0.7,0,1.3,0.6,1.3,1.3l0,0c0,0.7-0.6,1.3-1.3,1.3h-4
+	C0.6,12.7,0,12.1,0,11.4z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="1.5s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+<path class="st1" d="M3.3,3.3L3.3,3.3c0.5-0.5,1.4-0.5,1.9,0l2.8,2.8c0.5,0.5,0.5,1.4,0,1.9l0,0c-0.5,0.5-1.4,0.5-1.9,0L3.3,5.2
+	C2.8,4.7,2.8,3.9,3.3,3.3z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="1.75s" calcMode="linear" dur="2s" fill="remove" from="1" repeatCount="indefinite" restart="always" to="0">
+		</animate>
+</path>
+</svg>

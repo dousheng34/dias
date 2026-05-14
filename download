@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log*
+requests.log
+*.local
+.env
+.DS_Store
+Thumbs.db
+start-mirror.bat
